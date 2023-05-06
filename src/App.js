@@ -19,7 +19,7 @@ function App() {
         <div className="iframe-container">
           <iframe
             ref={iframeRef}
-            src="https://login.techstars.com/auth/realms/techstars/protocol/openid-connect/auth?client_id=apply&redirect_uri=https%3A%2F%2Fapply.techstars.com%2F&state=e74070a5-bcbe-4880-a4c0-6fdbfd4b0409&response_mode=fragment&response_type=code&scope=openid&nonce=f9c78dce-07f1-43f4-9cae-d31283751fa3"
+            src="https://docs.google.com/document/d/1mV-2mIElMN72fNsZ5tjMp7o512KVfdAtC6gZV__ewwg/edit"
             title="Embedded Website"
             width="100%"
             height="600px"
